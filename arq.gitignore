@@ -1,4 +1,3 @@
-$ cat .gitignore
+# Arquivos compilados
+*.o
 
-# Aqruivos compilados
-.o
