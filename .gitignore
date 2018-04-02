@@ -3,7 +3,7 @@
 ### C ###
 # Prerequisites
 *.d
-!Makefile
+
 
 # Object files
 *.o
@@ -101,3 +101,5 @@ obj/
 
 # End of https://www.gitignore.io/api/c,c++,linux,codeblocks
 
+*.sh
+*.bin
