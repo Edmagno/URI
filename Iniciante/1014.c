@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+int x;
+double y, total;
+scanf("%d",&x);
+scanf("%lf",&y);
+total= x/y;
+printf("%.3lf km/l\n",total);
+return 0;
+}
