@@ -1,4 +1,4 @@
-#Ignora todos os arquivos exceto os arquivos fonte da linguagem C e C++
+
 *
 !*.c
 !*.cpp
