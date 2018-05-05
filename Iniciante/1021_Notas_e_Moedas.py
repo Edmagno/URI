@@ -16,7 +16,7 @@ c = c - n10 * 10;
 n5 = c / 5;
 c = c - n5 * 5;
 n2 = c / 2;
-c = c - n2 * 2;	
+c = c - n2 * 2;
 
 m1 = c;
 m50 = r / 50;
@@ -28,7 +28,7 @@ r = r - m10 * 10;
 m05 = r / 5;
 r = r - m05 * 5;
 m01 = r;
-		
+
 print 'NOTAS:'
 print n100,'nota(s) de R$ 100.00'
 print n50, 'nota(s) de R$ 50.00'
