@@ -6,7 +6,7 @@ if a == b:
     print 'O JOGO DUROU 24 HORA(S)'
 elif a > b:
     c = (24 -a) + b
-    print 'O JOGO DUROU {} HORA(s)'.format(c)
+    print 'O JOGO DUROU {} HORA(S)'.format(c)
 else:
     c = b - a
-    print 'O JODO DUROU {} HORA(S)'.format(c)
+    print 'O JOGO DUROU {} HORA(S)'.format(c)
